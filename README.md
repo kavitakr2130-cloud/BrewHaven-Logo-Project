@@ -1,21 +1,23 @@
-Project Overview
-This project is part of my graphic design internship at Thrinax. The objective was to design a professional brand identity for a startup coffee shop, focusing on a "cozy" and welcoming atmosphere.
+Thrinax Graphic Design Internship – Brand Identity Design
 
-Design Concept
-Brand Name: BrewHaven.
+This project involves the conceptualization and creation of a professional logo for BrewHaven, a startup coffee shop. The goal was to develop a cohesive brand identity that feels both premium and welcoming.
 
-Tagline: "Where every cup feels like home".
+What's inside:
 
-Visual Strategy: The logo uses a "Modern Rustic" stacked layout, featuring a steaming coffee cup icon with integrated coffee beans to represent authenticity and comfort.
+Primary Logo: A stacked "Modern Rustic" layout featuring a steaming cup icon.
 
-Key Features & Requirements
-Conceptualization: Developed through multiple sketching phases to find the most balanced composition.
+Integrated Graphics: Coffee bean elements embedded within the icon for visual storytelling.
 
-Vector Quality: Designed using high-quality elements to ensure the logo remains sharp at any size (infinite scaling).
+Variations: Optimized versions for both Light and Dark backgrounds to ensure brand consistency across all platforms.
 
-Brand Variations: Includes both light and dark variations to ensure the logo works across all marketing materials.
+Technical Details:
 
-Final Deliverables
-PNG Files: For quick digital previewing and social media use.
+Tools used: Canva (Vector-based elements).
 
-PDF Print: High-quality output preserved in a vector-ready format to meet professional industry standards.
+Color Palette: Dark Cocoa and Cream White for high contrast and a "cozy" aesthetic.
+
+Principles: Focused on scalability and readability for high-quality printing.
+
+Prepared by: Kavita kumari
+
+Intern ID: THX-MAY126-935
